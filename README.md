@@ -6,7 +6,7 @@ If you came across this file, chances are it was by accident. You probably came 
 
 _Schedule_  
 Period 1: Alg 2 - Trig 1  
-Period 2: **Graphic Design** (Most important class)
+Period 2: **Graphic Design** (Most important class)  
 Period 3: Us History  
 Period 4: Yoga  
 Period 5: Physics   
