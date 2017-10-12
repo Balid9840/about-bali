@@ -15,4 +15,8 @@ Period 6: Lunch
 Period 7: [SEP11](https://sites.google.com/a/hstat.org/balid9840sep11/)   
 Period 8: English 6
 
-# Hobbies
+# Hobbies  
+1.  Drawing
+2.  Coding
+3.  Creating Video Game Ideas
+4.  Being around my friends
